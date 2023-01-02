@@ -1,7 +1,7 @@
 Salve me chamo Arthur Munhoz!
 - 🔭 Atualmente em transição de carreia
 - 🌱 Estou aprendendo C# voltado para desenvolvimento de jogos
-- 📫 Voce pode me mandar um email aqui: artmunhoz22@gmail.com
+- 📫 Voce pode me mandar um email aqui: arthurmunhozdacosta@gmail.com
 - 😄 Pronome: Ele/Dele
 
 
